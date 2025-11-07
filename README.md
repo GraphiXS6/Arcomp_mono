@@ -4,8 +4,8 @@ The otf file can be found in the releases folder [HERE](https://github.com/Graph
 # Arcomp Mono
 Arcomp Mono is a free, open source, monospace font designed around particular constraints with good readability in mind.
 All characters are the exact same width, with few exceptions, with the width being the x-height.  
-The ascenders and descenders, along with capital letters, are 50% of the midline x-height.  
-The em size and spacing are the exactly the same as courier new, and can thus be a drop in replacement for documents.
+The ascenders and descenders, along with the tops of capital letters, are 50% of the midline x-height above and below.  
+The em size and spacing are exactly the same as courier new, and can thus be a drop in replacement for documents.
 This typeface has near complete accent support, and should be able to fully write all Latin, Germanic, and Scandinavian languages.
 Along with those languages, Arcomp Mono also has full Greek support, and Japanese kana.
 ![image displaying Greek text](/images/arcomp_mono_greek_demo.svg)
@@ -18,7 +18,7 @@ In the wip_files folder are all characters as Inkscape SVGs with the grid and al
 in the final_files folder are all characters as Inkscape SVGs with no grid and all characters as filled paths.
 ### Editing Glyphs
 All glyphs are arranged with nodes aligned on the grid.  Curves are primarily Bézier representations of arcs with some derived from NURBS.
-In the FontForge file, most diacritics are handled as references, so if you edit the, accented characters should automatically be adjusted.
+In the FontForge file, most diacritics are handled as references, so if you edit them, accented characters should automatically be adjusted.
 ## Roadmap
 There are still several features to be added including:
 - Proper bold support
