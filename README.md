@@ -4,10 +4,12 @@ The otf files can be found in the releases folder [HERE](https://github.com/Grap
 # Arcomp Mono
 Arcomp Mono is a free, open source, monospace font designed around particular constraints with good readability in mind.
 All characters are the exact same width, with few exceptions, with the width being the x-height.
-The ascenders and descenders, along with the tops of capital letters, are 50% of the midline x-height above and below.  
+The ascenders and descenders, along with the tops of capital letters, are 50% of the midline x-height above and below. 
 This typeface is metrically compatible with Courier New, and can thus be a drop in replacement for documents.
+
 This typeface has near complete accent support, and should be able to fully write all Latin, Germanic, and Scandinavian languages.
 Along with those languages, Arcomp Mono also has full Greek support, full Cyrillic support, and Japanese kana.
+
 ![image displaying Greek text](/images/arcomp_mono_greek_demo.svg)
 ![image displaying Japanese text](/images/arcomp_mono_japanese_demo.svg)
 ![image displaying Cyrillic text](/images/arcomp_mono_cyrillic_demo.svg)
