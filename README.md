@@ -1,11 +1,11 @@
 ![image displaying Latin text, numbers, and symbols](/images/arcomp_mono_demonstration.svg)
 # Installation
-The otf file can be found in the releases folder [HERE](https://github.com/GraphiXS6/Arcomp_mono/tree/main/releases) and the FontForge file (SFD) can be found [HERE](https://github.com/GraphiXS6/Arcomp_mono/tree/main/Arcomp_mono_git).
+The otf files can be found in the releases folder [HERE](https://github.com/GraphiXS6/Arcomp_mono/tree/main/releases) and the FontForge file (SFD) can be found [HERE](https://github.com/GraphiXS6/Arcomp_mono/tree/main/Arcomp_mono_git).
 # Arcomp Mono
 Arcomp Mono is a free, open source, monospace font designed around particular constraints with good readability in mind.
-All characters are the exact same width, with few exceptions, with the width being the x-height.  
+All characters are the exact same width, with few exceptions, with the width being the x-height.
 The ascenders and descenders, along with the tops of capital letters, are 50% of the midline x-height above and below.  
-The em size and spacing are exactly the same as courier new, and can thus be a drop in replacement for documents.
+This typeface is metrically compatible with Courier New, and can thus be a drop in replacement for documents.
 This typeface has near complete accent support, and should be able to fully write all Latin, Germanic, and Scandinavian languages.
 Along with those languages, Arcomp Mono also has full Greek support, and Japanese kana.
 ![image displaying Greek text](/images/arcomp_mono_greek_demo.svg)
@@ -21,7 +21,7 @@ All glyphs are arranged with nodes aligned on the grid.  Curves are primarily BÃ
 In the FontForge file, most diacritics are handled as references, so if you edit them, accented characters should automatically be adjusted.
 ## Roadmap
 There are still several features to be added including:
-- Proper bold support
+- Improved bold support
 - Proper italic/oblique support
 - Additional Archaic Latin and IPA characters
 - Complete Archaic Greek characters
